@@ -21,5 +21,4 @@ In this session, we will integrate everything we have learned so far to create a
 
 # Links
 
-- [😸 GitHub Repository](https://github.com/weekofcode24/twitter-clone)
 - [SQL Tutorial/Reference](https://www.w3schools.com/sql/)
